@@ -2,4 +2,4 @@
 このリポジトリはGit動画講座用です．
 conflictブランチで変更
 rebase用
-stash練習track済み
+stash練習(2nd) 
